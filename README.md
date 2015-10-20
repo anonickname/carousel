@@ -14,3 +14,6 @@ What is missing from the app?
 
 The biggest functionality missing from the app is the various sign in validation scenarios. But this is how much I can accomplish given the time I can work on this project this week.
 
+![Video Walkthrough](carousel.gif)
+
+The gif is created with LICEcap.
